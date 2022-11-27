@@ -1,2 +1,2 @@
 # agecounter
-Count your age via .NET Windows Forms app
+Count your age via .NET Windows Forms app called "agecounter"
