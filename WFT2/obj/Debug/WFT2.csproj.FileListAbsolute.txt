@@ -1,0 +1,13 @@
+C:\Users\tks\source\repos\WFT2\WFT2\bin\Debug\WFT2.exe.config
+C:\Users\tks\source\repos\WFT2\WFT2\bin\Debug\WFT2.exe
+C:\Users\tks\source\repos\WFT2\WFT2\bin\Debug\WFT2.pdb
+C:\Users\tks\source\repos\WFT2\WFT2\obj\Debug\WFT2.csproj.AssemblyReference.cache
+C:\Users\tks\source\repos\WFT2\WFT2\obj\Debug\WFT2.csproj.SuggestedBindingRedirects.cache
+C:\Users\tks\source\repos\WFT2\WFT2\obj\Debug\WFT2.Properties.Resources.resources
+C:\Users\tks\source\repos\WFT2\WFT2\obj\Debug\WFT2.start.resources
+C:\Users\tks\source\repos\WFT2\WFT2\obj\Debug\WFT2.csproj.GenerateResource.cache
+C:\Users\tks\source\repos\WFT2\WFT2\obj\Debug\WFT2.csproj.CoreCompileInputs.cache
+C:\Users\tks\source\repos\WFT2\WFT2\obj\Debug\WFT2.exe
+C:\Users\tks\source\repos\WFT2\WFT2\obj\Debug\WFT2.pdb
+C:\Users\tks\source\repos\WFT2\WFT2\obj\Debug\WFT2.eng.resources
+C:\Users\tks\source\repos\WFT2\WFT2\obj\Debug\WFT2.engn.resources

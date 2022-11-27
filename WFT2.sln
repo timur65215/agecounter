@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFT2", "WFT2\WFT2.csproj", "{786176FC-DB13-43DE-B2AC-3AD93989C33A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{786176FC-DB13-43DE-B2AC-3AD93989C33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{786176FC-DB13-43DE-B2AC-3AD93989C33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{786176FC-DB13-43DE-B2AC-3AD93989C33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{786176FC-DB13-43DE-B2AC-3AD93989C33A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2863387-FDB5-489C-BFBC-8ED9E4C171BE}
+	EndGlobalSection
+EndGlobal
